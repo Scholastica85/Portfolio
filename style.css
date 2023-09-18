@@ -228,7 +228,7 @@ main p {
 }
 
 main .btn {
-    left: 15%;
+    left: 10%;
 }
 
 .Projects {
@@ -565,7 +565,7 @@ footer h1 {
         display: flex;
     }
     .serciceContent + .serciceContent {
-        margin-left: 3em;
+        margin-left: 5em;
     }
     footer .row {
         display: flex;
