@@ -134,7 +134,7 @@ header {
 
 .imageHolder {
     margin-left: 40%;
-   
+    background-image: url(../IMG_20220827_171319A.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
